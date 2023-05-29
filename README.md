@@ -3,3 +3,4 @@
 #### 1、注册翱翔云加速器账号，注册即可使用免费节点，不花一毛钱
 #### 注册地址：https://www.aoxiangyun.top/auth/register?code=hauyS6ox0I
 #### 2、下载客户端
+![Image text](https://github.com/joek4413/img/blob/main/1.png)
