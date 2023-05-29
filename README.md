@@ -14,3 +14,8 @@
 ### 5、在用户中心点击“拷贝订阅链接” ，（用于关联客户端与您的账号绑定，注意别泄露订阅链接，否则别人就会使用您的节点及浏览）  
 .  
 ![Image text](https://github.com/joek4413/img/blob/main/4.png)
+### 6、备注填：“翱翔云”，，地址：“就是您刚才拷贝的订阅链接如：https://www.aoxiangyun.top/link/7f3c82f79231597f?aall=1”
+.  
+![Image text](https://github.com/joek4413/img/blob/main/5.png)
+### 7、订阅完成后点击：“确定”，然后返回首页点击：“订阅”，“更新订阅（不通过代理）”
+![Image text](https://github.com/joek4413/img/blob/main/6.png)
