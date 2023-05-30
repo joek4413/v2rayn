@@ -18,4 +18,18 @@
 .  
 ![Image text](https://github.com/joek4413/img/blob/main/5.png)
 ### 7、订阅完成后点击：“确定”，然后返回首页点击：“订阅”，“更新订阅（不通过代理）”
+.  
 ![Image text](https://github.com/joek4413/img/blob/main/6.png)
+### 8、选择所需地区节点或延迟及速度快的节点，回车（Enter）确定选定节点
+.  
+![Image text](https://github.com/joek4413/img/blob/main/7.png)
+.  
+![Image text](https://github.com/joek4413/img/blob/main/8.png)
+### 9、然后在：电脑右下角任务栏右键“小飞机（v2rayn客户端图标）”，“系统代理”，“自动配置系统代理”
+.  
+![Image text](https://github.com/joek4413/img/blob/main/9.png)
+### 10、现在已经配置完成了，打开要使用的网页测试一下，如：youtube，google等，
+.  
+![Image text](https://github.com/joek4413/img/blob/main/10.png)
+![Image text](https://github.com/joek4413/img/blob/main/11.png)
+![Image text](https://github.com/joek4413/img/blob/main/12.png)
